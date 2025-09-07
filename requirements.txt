@@ -1,0 +1,6 @@
+pandas
+matplotlib
+spacy
+PyPDF2
+openpyxl
+pytest
